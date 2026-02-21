@@ -11,6 +11,7 @@
 💻 Frontend Developer  
 🌍 Languages: Arabic • English <br>
 🚀 Passionate about building clean, intuitive, and user-focused interfaces
+
 I enjoy turning ideas into interactive experiences.  
 My focus is on creating interfaces that feel simple, fast, and natural to use.
 
