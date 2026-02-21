@@ -11,6 +11,7 @@
 💻 Frontend Developer  
 🌍 Languages: Arabic • English
 🚀 Passionate about building clean, intuitive, and user-focused interfaces
+
 I enjoy turning ideas into interactive experiences.  
 My focus is on creating interfaces that feel simple, fast, and natural to use.
 
@@ -59,8 +60,8 @@ Always learning.
 
 If you're working on something interesting or just want to talk tech:
 
-- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yaqoubdw/)
-- 📫 Email: [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:yaqoubdw@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/yaqoubdw/
+- 📫 Email: yaqoubdw@gmail.com
 
 
 ---
