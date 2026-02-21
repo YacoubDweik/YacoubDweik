@@ -1,52 +1,68 @@
 <!-- README.md -->
 
-<h1 align="center">Hey 👋, I'm Yacoub</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer%20from%20Jordan;Lover%20of%20CSS%20chaos%20and%20JS%20magic;Always%20hunting%20for%20the%20next%20aha!%20moment&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Yacoub+from+Jordan" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
-</p>
+
+
+## 🧠 About Me
+
+💻 Frontend Developer  
+🌍 Languages: Arabic • English 
+🚀 Passionate about building clean, intuitive, and user-focused interfaces
+I enjoy turning ideas into interactive experiences.  
+My focus is on creating interfaces that feel simple, fast, and natural to use.
+
+I care about:
+
+- Thoughtful UI/UX
+- Clean, maintainable code
+- Performance & responsiveness
+- Constant learning & improvement
 
 ---
 
-### 🧠 About Me
+## 🛠 Tech & Tools
 
-- 🎯 Self-taught frontend dev addicted to building smooth UI/UX
-- 🧰 Currently sharpening my React and exploring Next.js
-- 🌍 Jordanian dreamer building for the world
-- 🚀 Goal: escape the matrix of 9-to-5 and create tools that matter
+Frontend development is my playground.
 
----
+**Core Areas:**
 
-### 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-
-> I build interfaces that don’t just work—but **feel** right.
+- Modern Web Development
+- Responsive Design
+- UI Implementation
+- Component-Based Architectures
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 What I Like Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YacoubDweik&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YacoubDweik&theme=radical" height="165" />
-</p>
-
----
-
-### 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yaqoubdw/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:yaqoubdw@gmail.com)
+- Web apps
+- Interface-heavy projects
+- Clean UI systems
+- Anything that challenges my thinking
 
 ---
 
-> _“Code is the closest thing we have to magic.”_
+## 📈 Mindset
 
+I see development as a mix of logic, creativity, and problem-solving.
+
+Always experimenting.  
+Always refining.  
+Always learning.
+
+---
+
+## 🤝 Let’s Connect
+
+If you're working on something interesting or just want to talk tech:
+
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yaqoubdw/)
+- 📫 Email: [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:yaqoubdw@gmail.com)
+
+
+---
+
+⭐ *“Good interfaces feel invisible.”*
