@@ -54,14 +54,6 @@ Always experimenting.
 Always refining.  
 Always learning.
 
----
-
-## 🤝 Let’s Connect
-
-If you're working on something interesting or just want to talk tech:
-
-- 📫 Email: yaqoubdw@gmail.com
-
 
 ---
 
