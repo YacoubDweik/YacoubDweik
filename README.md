@@ -60,7 +60,6 @@ Always learning.
 
 If you're working on something interesting or just want to talk tech:
 
-- 💼 LinkedIn: https://www.linkedin.com/in/yaqoubdw/
 - 📫 Email: yaqoubdw@gmail.com
 
 
